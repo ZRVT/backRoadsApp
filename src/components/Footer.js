@@ -1,5 +1,4 @@
-import { pageLinks } from '../data'
-import { socialLinks } from '../data'
+import { pageLinks, socialLinks } from '../data'
 
 const footer = () => {
   return (
